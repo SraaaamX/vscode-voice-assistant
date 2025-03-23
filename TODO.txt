@@ -1,0 +1,76 @@
+Commandes vocales à implémenter, à ranger par catégorie et à inclure dans les paramètres et le GUI, plus modifier les commandes actuelles dont le raccourci est écrit ci-dessous:
+
+# Dictée 🗣️
+(✓) - écoute
+(✓) - stop/arrête
+(✓) - annule
+
+# Edition et Annulation ✂️
+- copier → copie la sélection (Ctrl+C)
+- coller → colle depuis le presse-papier (Ctrl+V)
+- coupe → coupe la sélection (Ctrl+X)
+- dupliquer → duplique la ligne actuelle (Ctrl+D)
+- supprimer → supprime la ligne actuelle (Ctrl+Shift+K)
+- retourne → annule la dernière action (Ctrl+Z 1 fois)
+- retourne X → annule X dernières actions (Ctrl+Z X fois)
+- rétabli → rétablit la dernière action (Ctrl+Y 1 fois)
+- rétablis X → rétablit X dernières actions (Ctrl+Y X fois)
+
+# Formatage et Recherche 🔍
+- commenter → commente/décommente la ligne (Ctrl+/)
+- indentation → indente la ligne (Tab)
+- enlève indentation → désindente la ligne (Shift+Tab)
+(✓) - formater
+(✓) - cherche le mot [mot]
+- cherche dans tous les fichiers → recherche dans tous les fichiers (Ctrl+Shift+F)
+(✓) - mot suivant
+(✓) - mot suivant X
+(✓) - mot précédent
+(✓) - mot precedent X
+(✓) - choisis le mot
+
+# Éditeur et Navigation ↕️
+(✓) - monte
+(✓) - baisse
+(✓) - monte de X
+(✓) - baisse de X
+(✓) - monte tout en haut
+(✓) - baisse tout en bas
+(à modifier) - ligne X (Ctrl+G "X" Entrer)
+(✓) - ligne X à Y
+- sélectionne X → sélectionne la ligne X (CTRL+G "X" Entrer puis selectionne toute la ligne X)
+- sélectionne X à Y → sélectionne les lignes X à Y (CTRL+G "X" Entrer puis selectionne toute la ligne X à Y)
+(✓) - tout le fichier
+
+# Interface et Fenêtres 🖥️
+- agrandi → zoom avant (Ctrl+=)
+- diminue → zoom arrière (Ctrl+-)
+- plein écran → active/désactive le mode plein écran (F11)
+- onglet ferme → ferme l'onglet actif (Ctrl+W)
+- ferme fenêtre → ferme la fenêtre actuelle (Alt+F4)
+(✓) - onglet suivant
+(✓) - onglet suivant X
+(✓) - onglet précédent
+(✓) - onglet précédent X
+
+# IA et Validation 🤖
+(✓) - ia
+(✓) - ia commande
+(✓) - ia accepte
+(✓) - ia refuse
+
+# Fichiers et Terminal 📂
+(✓) - nouveau fichier
+(✓) - nouveau dossier
+(✓) - ouvre fichier
+(✓) - ouvre dossier
+(✓) - sauvegarde
+(✓) - explore
+(✓) - ouvre X
+(✓) - terminal
+(✓) - dernier terminal
+
+# Sauvegarde et Validation 📝
+(✓) - accepte
+(✓) - refuse
+(✓) - sauvegarde

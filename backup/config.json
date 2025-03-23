@@ -1,0 +1,195 @@
+{
+    "wake_word": "jarvis",
+    "voice_commands": {
+        "monte": "monte",
+        "baisse": "baisse",
+        "monte de": "monte_de",
+        "baisse de": "baisse_de",
+        "monte tout en haut": "monte_tout_en_haut",
+        "baisse tout en bas": "baisse_tout_en_bas",
+        "terminal": "new_terminal",
+        "dernier terminal": "last_terminal",
+        "nouveau dossier": "new_folder",
+        "nouveau fichier": "new_file",
+        "ouvre fichier": "open_file",
+        "ouvre dossier": "open_folder",
+        "explore": "show_explorer",
+        "onglet suivant": "onglet_suivant",
+        "onglet précédent": "onglet_precedent",
+        "prompt": "cline_trigger",
+        "prompt accepte": "cline_accept",
+        "prompt refuse": "cline_reject",
+        "accepte": "accepte",
+        "refuse": "refuse",
+        "sauvegarde": "sauvegarde",
+        "ouvre": "open_item",
+        "écoute": "listen",
+        "stop": "stop",
+        "arrête": "stop",
+        "annule": "cancel",
+        "annuler": "cancel",
+        "cherche le mot": "search_word",
+        "mot suivant": "word_next",
+        "mot précédent": "word_prev",
+        "choisis le mot": "select_word",
+        "ia": "cline_trigger",
+        "ia commande": "cline_prompt_trigger",
+        "ia accepte": "cline_accept",
+        "ia refuse": "cline_reject",
+        "formater": "format_text"
+    },
+    "mouse_positions": {
+        "cline_trigger": [
+            24,
+            680
+        ],
+        "cline_prompt_trigger": [
+            114,
+            959
+        ],
+        "cline_accept": [
+            93,
+            917
+        ],
+        "cline_reject": [
+            279,
+            911
+        ]
+    },
+    "shortcuts": {
+        "monte": [
+            "Key.page_up"
+        ],
+        "baisse": [
+            "Key.page_down"
+        ],
+        "monte_de": [
+            "Key.page_up"
+        ],
+        "baisse_de": [
+            "Key.page_down"
+        ],
+        "monte_tout_en_haut": [
+            "Key.ctrl",
+            "Key.home"
+        ],
+        "baisse_tout_en_bas": [
+            "Key.ctrl",
+            "Key.end"
+        ],
+        "new_terminal": [
+            "Key.ctrl",
+            "Key.shift",
+            "ù"
+        ],
+        "last_terminal": [
+            "Key.ctrl",
+            "ù"
+        ],
+        "new_file": [
+            "Key.ctrl",
+            "Key.shift",
+            "p"
+        ],
+        "new_folder": [
+            "Key.ctrl",
+            "Key.shift",
+            "p"
+        ],
+        "open_file": [
+            "Key.ctrl",
+            "o"
+        ],
+        "open_folder": [
+            "Key.ctrl",
+            "k",
+            "Key.ctrl",
+            "o"
+        ],
+        "show_explorer": [
+            "Key.ctrl",
+            "Key.shift",
+            "e"
+        ],
+        "onglet_suivant": [
+            "Key.ctrl",
+            "Key.page_down"
+        ],
+        "onglet_precedent": [
+            "Key.ctrl",
+            "Key.page_up"
+        ],
+        "cline_trigger": [
+            "Key.ctrl",
+            "Key.shift",
+            "p"
+        ],
+        "cline_prompt_trigger": [
+            "Key.ctrl",
+            "Key.shift",
+            "p"
+        ],
+        "cline_accept": [
+            "Key.alt",
+            "a"
+        ],
+        "cline_reject": [
+            "Key.alt",
+            "r"
+        ],
+        "accepte": [
+            "Key.alt",
+            "a"
+        ],
+        "refuse": [
+            "Key.alt",
+            "r"
+        ],
+        "sauvegarde": [
+            "Key.ctrl",
+            "s"
+        ],
+        "open_item": [
+            "enter"
+        ],
+        "listen": [
+            "Key.alt",
+            "l"
+        ],
+        "stop": [
+            "Key.esc"
+        ],
+        "cancel": [
+            "Key.esc"
+        ],
+        "format_text": [
+            "Key.alt",
+            "z"
+        ],
+        "search_word": [
+            "Key.ctrl",
+            "f"
+        ],
+        "word_next": [
+            "enter"
+        ],
+        "word_prev": [
+            "Key.shift",
+            "enter"
+        ],
+        "select_word": [
+            "Key.esc"
+        ],
+        "command_palette": [
+            "Key.ctrl",
+            "Key.shift",
+            "p"
+        ],
+        "enter": [
+            "enter"
+        ],
+        "esc": [
+            "esc"
+        ]
+    }
+}
